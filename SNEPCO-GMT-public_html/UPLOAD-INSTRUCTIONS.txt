@@ -1,0 +1,9 @@
+SNEPCO GMT — public_html upload package
+
+1. Open your hosting File Manager and enter the public_html folder.
+2. Upload the contents of this ZIP directly into public_html.
+3. Extract the ZIP there. index.html must sit directly inside public_html.
+4. Remove or rename any old index.php/index.html file if it conflicts.
+
+This is a static export of the SNEPCO GMT website. The contact form opens the
+visitor's email application and sends the enquiry to info@snepcogmt.com.
